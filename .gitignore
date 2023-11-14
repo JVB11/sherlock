@@ -1,1 +1,4 @@
 /.vscode
+*-checkpoint.ipynb
+./*.png
+./*.pkl
