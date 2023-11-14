@@ -40,7 +40,7 @@ max_modes_larger_periods  = 35
 # KIC number
 KIC =  '07760680' #
 # Work directory, no trailing slash.
-WORK_DIR = '/Users/joey/Documents/Projects/SHERLOCK'
+WORK_DIR = '/home/jordanv/Documents/TESTGRID/SHERLOCK'
 # Always use the entire grid for the search window and expected value.
 always_use_entire_grid = False
 

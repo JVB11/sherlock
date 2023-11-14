@@ -12,6 +12,7 @@ h5py = "^3.4.0"
 matplotlib = "^3.4.3"
 pandas = "^2.0.0"
 scipy = "^1.9.3"
+jupyter = "^1.0.0"
 
 
 [tool.poetry.group.dev.dependencies]
